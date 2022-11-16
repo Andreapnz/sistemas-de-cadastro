@@ -1,3 +1,4 @@
 console.log("Rodando o sistema de gerenciamento de jogos")
-modificações executadas para teste
-Testando o repositório 
+console.log("aplicação está se conectando ao banco de dados")
+//mais um console log de teste:
+console.log("fazer um commit de teste")
